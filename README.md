@@ -16,6 +16,8 @@ New methodologies for identifying vulnerable races are valuable to campaigns on 
 ### Timeline
 We'll collect data in May, and build models in June. The goal is to have a ranked list by the end of June. 
 
+For the time being, we're storing data on [data.world](https://data.world/data4democracy/just-politics).
+
 ### Resources
 - [Election Transparency datasets](https://data.world/data4democracy/election-transparency) on data.world
 - [2016 voting data for each state by district](https://data.world/lonelyguppy/2016-us-house-of-rep-voting-by-state-and-district) on data.world
